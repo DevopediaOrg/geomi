@@ -16,7 +16,7 @@ Planar, solid and higher dimensional geometry.
 LICENSE
 -------
 
-MIT. See `License File <https://github.com/geomi/blob/master/LICENSE.txt>`__.
+MIT. See `License File <https://github.com/IndianEngineeringDesignForum/geomi/blob/master/LICENSE>`__.
 
 Install
 -------
