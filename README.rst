@@ -1,4 +1,12 @@
-Toolz
+.. |Build Status| image:: https://travis-ci.org/IndianEngineeringDesignForum/geomi.svg?branch=master
+   :target: https://travis-ci.org/IndianEngineeringDesignForum/geomi
+.. |Coverage Status| image:: https://codecov.io/github/IndianEngineeringDesignForum/geomi/branch/master/graph/badge.svg
+   :target: https://codecov.io/github/IndianEngineeringDesignForum/geomi
+.. |Version Status| image:: https://badge.fury.io/py/geomi.svg
+   :target: http://badge.fury.io/py/geomi
+
+
+Geomi
 =====
 
 |Build Status| |Coverage Status| |Version Status| 
@@ -41,19 +49,19 @@ Structure
 |literal utils.plotter|_: plot geometries for visualization ...
 
 .. |literal planar| replace:: ``planar``
-.. _literal planar: https://github.com/geomi/blob/master/geomi/planar
+.. _literal planar: https://github.com/IndianEngineeringDesignForum/geomi/tree/master/src/geomi/planar
 
 .. |literal solid| replace:: ``solid``
-.. _literal solid: https://github.com/geomi/blob/master/geomi/solid
+.. _literal solid: https://github.com/IndianEngineeringDesignForum/geomi/tree/master/src/geomi/solid
 
 .. |literal ndim| replace:: ``ndim``
-.. _literal ndim: https://github.com/geomi/blob/master/geomi/ndim
+.. _literal ndim: https://github.com/IndianEngineeringDesignForum/geomi/tree/master/src/geomi/ndim
 
 .. |literal utils.algos| replace:: ``utils.algos``
-.. _literal utils.algos: https://github.com/geomi/blob/master/geomi/utils/algos
+.. _literal utils.algos: https://github.com/IndianEngineeringDesignForum/geomi/tree/master/src/geomi/utils/algos
 
 .. |literal utils.plotter| replace:: ``utils.plotter``
-.. _literal utils.plotter: https://github.com/geomi/blob/master/geomi/utils/plotter
+.. _literal utils.plotter: https://github.com/IndianEngineeringDesignForum/geomi/tree/master/src/geomi/utils/plotter
 
 
 Dependencies
@@ -63,9 +71,3 @@ Dependencies
 It is pure Python and requires no dependencies beyond the standard
 library.
 
-.. |Build Status| image:: https://travis-ci.org/IndianEngineeringDesignForum/geomi.svg?branch=master
-   :target: https://travis-ci.org/IndianEngineeringDesignForum/geomi
-.. |Coverage Status| image:: https://codecov.io/github/IndianEngineeringDesignForum/geomi/branch/master/graph/badge.svg
-   :target: https://codecov.io/github/IndianEngineeringDesignForum/geomi
-.. |Version Status| image:: https://badge.fury.io/py/geomi.svg
-   :target: http://badge.fury.io/py/geomi
