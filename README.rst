@@ -1,11 +1,9 @@
 Toolz
 =====
 
-|Build Status| |Coverage Status| |Version Status| |Downloads|
+|Build Status| |Coverage Status| |Version Status| 
 
 Planar, solid and higher dimensional geometry.
-
-See the PyToolz documentation at http://geomi.readthedocs.org
 
 LICENSE
 -------
@@ -65,11 +63,9 @@ Dependencies
 It is pure Python and requires no dependencies beyond the standard
 library.
 
-.. |Build Status| image:: https://travis-ci.org/geomi.svg?branch=master
-   :target: https://travis-ci.org/geomi
-.. |Coverage Status| image:: https://coveralls.io/repos/geomi/badge.svg?branch=master
-   :target: https://coveralls.io/r/geomi
+.. |Build Status| image:: https://travis-ci.org/IndianEngineeringDesignForum/geomi.svg?branch=master
+   :target: https://travis-ci.org/IndianEngineeringDesignForum/geomi
+.. |Coverage Status| image:: https://codecov.io/github/IndianEngineeringDesignForum/geomi/branch/master/graph/badge.svg
+   :target: https://codecov.io/github/IndianEngineeringDesignForum/geomi
 .. |Version Status| image:: https://badge.fury.io/py/geomi.svg
    :target: http://badge.fury.io/py/geomi
-.. |Downloads| image:: https://img.shields.io/pypi/dm/geomi.svg
-   :target: https://pypi.python.org/pypi/geomi/
